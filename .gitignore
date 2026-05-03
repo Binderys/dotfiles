@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+.VolumeIcon.icns
+.DocumentRevisions-V100
+.TemporaryItems
+
+# Editor swap / backup files
+*.swp
+*.swo
+*~
+.#*
+\#*#
